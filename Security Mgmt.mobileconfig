@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>HasRemovalPasscode</key>
+		<true />
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowActivityContinuation</key>
+				<false />
+				<key>allowAssistant</key>
+				<false />
+				<key>allowAutoUnlock</key>
+				<false />
+				<key>allowCamera</key>
+				<false />
+				<key>allowCloudBackup</key>
+				<false />
+				<key>allowCloudKeychainSync</key>
+				<false />
+				<key>allowCloudPhotoLibrary</key>
+				<false />
+				<key>allowCloudPrivateRelay</key>
+				<false />
+				<key>allowDiagnosticSubmission</key>
+				<false />
+				<key>allowEnterpriseAppTrust</key>
+				<false />
+				<key>allowEnterpriseBookBackup</key>
+				<false />
+				<key>allowEnterpriseBookMetadataSync</key>
+				<false />
+				<key>allowFingerprintForUnlock</key>
+				<false />
+				<key>allowGlobalBackgroundFetchWhenRoaming</key>
+				<false />
+				<key>allowManagedAppsCloudSync</key>
+				<false />
+				<key>allowOpenFromManagedToUnmanaged</key>
+				<false />
+				<key>allowOpenFromUnmanagedToManaged</key>
+				<false />
+				<key>allowOTAPKIUpdates</key>
+				<false />
+				<key>allowPhotoStream</key>
+				<false />
+				<key>allowScreenShot</key>
+				<false />
+				<key>allowSharedDeviceTemporarySession</key>
+				<false />
+				<key>allowSharedStream</key>
+				<false />
+				<key>allowStartupDiskModification</key>
+				<false />
+				<key>allowTimeMachineBackup</key>
+				<false />
+				<key>allowUntrustedTLSPrompt</key>
+				<false />
+				<key>allowVoiceDialing</key>
+				<false />
+				<key>forceAirDropUnmanaged</key>
+				<true />
+				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
+				<true />
+				<key>forceITunesStorePasswordEntry</key>
+				<true />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.1731646e-2c4f-4966-9fde-6da44ea94cef</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>e373e864-1a5f-4ae3-8b25-70e63b5799a8</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>safariAllowJavaScript</key>
+				<false />
+			</dict>
+			<dict>
+				<key>allowSimple</key>
+				<false />
+				<key>forcePIN</key>
+				<true />
+				<key>maxInactivity</key>
+				<integer>1</integer>
+				<key>maxPINAgeInDays</key>
+				<integer>15</integer>
+				<key>minLength</key>
+				<integer>10</integer>
+				<key>PayloadDisplayName</key>
+				<string>Passcode</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.mobiledevice.passwordpolicy.62ba9e14-3d66-467b-9ebf-46fbb7f0af89</string>
+				<key>PayloadType</key>
+				<string>com.apple.mobiledevice.passwordpolicy</string>
+				<key>PayloadUUID</key>
+				<string>4cb18509-7272-44ac-ab55-35baa7897561</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>requireAlphanumeric</key>
+				<true />
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Profile Removal</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.profileRemovalPassword.c024ff29-5feb-42fc-909b-9ebe89a1c73f</string>
+				<key>PayloadType</key>
+				<string>com.apple.profileRemovalPassword</string>
+				<key>PayloadUUID</key>
+				<string>c62509fb-7ec9-4836-8fe3-3a1ca4efa6a0</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>RemovalPassword</key>
+				<string>Element7&amp;</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Security Mgmt</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-3JFIMMO.2bdce32b-1088-419c-8124-1015338a6134</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>b303aa44-c4b4-4048-85c9-d800c3e193f5</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
