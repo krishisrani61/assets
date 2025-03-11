@@ -1,0 +1,7 @@
+{
+  "eventName": "Foujnd Event",
+  "additionalText": "Join us for a special meal",
+  "description": "This is the official online ordering system for the Foujnd event.",
+  "disablePage": false,
+  "redirectUrl": "https://example.com/maintenance"
+}
